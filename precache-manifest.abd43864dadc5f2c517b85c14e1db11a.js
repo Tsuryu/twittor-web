@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7353870e43e91c571536e86d6132fa6d",
+    "revision": "f200a959c834e11ae7ad14f98db0fce3",
     "url": "/twittor-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twittor-web/static/css/2.9f98d992.chunk.css"
   },
   {
-    "revision": "60c6e593eaa0318f1687",
+    "revision": "7a35f2ef032b25ce03f7",
     "url": "/twittor-web/static/css/main.0b1d639b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twittor-web/static/js/2.cfcb04f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60c6e593eaa0318f1687",
-    "url": "/twittor-web/static/js/main.0c17282a.chunk.js"
+    "revision": "7a35f2ef032b25ce03f7",
+    "url": "/twittor-web/static/js/main.f80c23f7.chunk.js"
   },
   {
     "revision": "c515052cdce6a84647e6",
